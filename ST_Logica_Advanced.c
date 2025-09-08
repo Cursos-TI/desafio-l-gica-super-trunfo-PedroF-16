@@ -110,6 +110,8 @@ int main(){
                 printf("\nEmpate!\n");
             }
         break;
+        default:
+            printf("\nNumero invalido.\n");
     }
     
     return 0;
